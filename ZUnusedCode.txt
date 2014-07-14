@@ -1,0 +1,223 @@
+//    Because developers are so fucked up, many parts of the content size doesn't match what the header says
+//    if(info['content-length'] && parseInt(info['content-length'])!=data.length && !info['content-encoding']){
+//        console.log("MISMATCH: " + key + " " + info['content-length'] + " " + data.length);
+//        return;
+//    }
+
+//    if(info['content-encoding']=='gzip'){
+//        console.log("Some server sent gzip.");
+////        zlib.gunzip(data,function(err,unzip){
+////            if(err){
+////                console.log(err);
+////            }
+////        });
+//    }else{
+//}
+
+
+
+
+     parser.ontext = function (t) {
+            parserForData.addTextToLastOpenedTag(t);
+//            AllinAll [all.join("\\")] = AllinAll [all.join("\\")]? AllinAll [all.join("\\")]+1:1;
+        }
+        parser.onclosetag = function (node) {
+            parserForData.tagClosed(node);
+//            if(node!=all[all.length-1])
+//                console.log(all[all.length-1] + "  " + node);
+//            all.pop();
+//            if(all.length==0){
+//                console.log("Done " + node);
+//            }
+        }
+        parser.onopentag = function (node) {
+//            all.push(node.name);
+            if(!isFirst){
+                isFirst = true;
+//                console.log(node.name + "  " + JSON.stringify(node.attributes));
+                parserForData = FeedParserCenter.findMatchingParser(node);
+            }else{
+                parserForData.tagOpened(node);
+            }
+
+        }
+
+
+
+            parser.onattribute = function (attr) {
+
+            }
+            parser.onopencdata = function () {
+
+            }
+
+            parser.onclosecdata = function () {
+
+            }
+
+            parser.onend = function () {
+
+            }
+
+
+//var fs = require("fs");
+
+//var contents = fs.readdirSync("files");
+//var items = [];
+//
+//contents.forEach(function(file){
+//    if(file.length==37){
+//        items[file.split("_")[0]]="";
+//    }
+//});
+//
+//
+//
+//for (var key in items){
+//    meta = JSON.parse(fs.readFileSync("files/" + key + "_meta","UTF8"));
+//    data = fs.readFileSync("files/_" + key + "_feed");
+//    parseIncomingContent(meta,data);
+//}
+
+
+
+
+//            if(response.statusCode==200){
+//                try{
+//                    console.log(" Up " + options.host + "  " + options.path);
+////                    fs.writeFileSync(metaFilename,JSON.stringify(response.headers));
+////                    response.pipe(fs.createWriteStream(downloadFilename));
+//                }catch(e){
+//                    console.log(" Fail " + options.host + "  " + host.path);
+//                    console.log(e);
+//                }
+//            }else{
+//                console.log("Code:" + response.statusCode + " for " + feedUrl);
+//            }
+
+
+//    console.log(feedUrl);
+//    var md5sum = crypto.createHash('md5');
+//    md5sum.update(new Buffer(feedUrl));
+//    fileHash = md5sum.digest('hex');
+//    downloadFilename = "files/" + fileHash + "_feed";
+//    metaFilename = "files/" + fileHash + "_meta";
+//    if(fs.existsSync(metaFilename)){clbk(); return;}
+
+//    var options = Utility.prepareRequestOptionsForURL(feedUrl,"GET");
+
+//    if(cookies && cookies.length>0){
+//        options.headers['Cookie'] = cookies;
+//    }
+
+
+
+
+
+console.log(allSources.length);
+//process.exit(0);
+//for(groupID in sourceGroups){
+//    for(requestInfoIdx in sourceGroups[groupID]){
+//        requestInfo = sourceGroups[groupID][requestInfoIdx];
+//        console.log("*_*  " + groupID + " " + requestInfoIdx);
+//        DoneList[requestInfo["owner"]["feedUrl"]] = 1;
+//        downloadFeed(requestInfo,function(feedData, feedResponse, error){
+//            if(DoneList[feedResponse["requestInfo"]["owner"]["feedUrl"]] == undefined){
+//                DoneList[feedResponse["requestInfo"]["owner"]["feedUrl"]] = "****"
+//            }else{
+//                delete DoneList[feedResponse["requestInfo"]["owner"]["feedUrl"]];
+//            }
+
+//            console.log(DoneList);
+//            console.log("*_*  " + feedResponse["requestInfo"].owner.category + " " + feedResponse["requestInfo"].owner.source );
+//            console.log(feedResponse);
+//            if(feedData!=undefined){
+
+                // keep the returnObject and start working on it.
+//                var articles = iKhbrParser.parseIncomingContent(feedResponse["headers"]["content-type"], requestInfo.owner, feedData);
+//                console.log(requestInfo.owner.category + " " + requestInfo.owner.source );
+//                if(articles)
+//                    db.insertArticlesArray(articles);
+//            }
+            // in whatever situation you have to work on the next object and that's why we call the callback.
+//        });
+//    }
+//}
+var number = arabicSources.length;
+
+//async.forEachLimit(Object.keys(sourceGroups),2,function(groupID, rootCallback) {
+    async.forEachLimit(allSources,5,function(requestInfo, groupCallBack) {
+//        setTimeout(groupCallBack,20000);
+        downloadFeed(requestInfo, function (feedData, feedResponse, error) {
+            if (feedData != undefined) {
+                // keep the returnObject and start working on it.
+                var articles = iKhbrParser.parseIncomingContent(feedResponse["headers"]["content-type"], requestInfo.owner, feedData);
+//                console.log(requestInfo.owner.category + " " + requestInfo.owner.source );
+//                if(articles && articles.length>0)
+//                    db.insertArticlesArray(articles);
+            }
+            // in whatever situation you have to work on the next object and that's why we call the callback.
+            groupCallBack();
+            number--;
+            console.log(number);
+        });
+    });
+
+//    },function(err,x){
+//        rootCallback();
+//        console.log(number);
+//        if(err) console.log("Error: " + err);
+//    });
+//});
+
+
+                    if(articles[item].media == undefined){
+                        articles[item].media = Utility.fetchImageFromHtmlContent(articles[item].description);
+
+                        if(articles[item].media == undefined){
+                            articles[item].media = Utility.fetchImageFromHtmlContent(articles[item].undefined);
+                        }
+                        console.log(articles[item].media);
+
+                    }
+
+
+                    function fetchImageFromHtmlContent(content){
+                        var regex = /<img(.*)>/gi, result, results = [];
+                        while ( (result = regex.exec(content)) ) {
+                            results.push(result[0]);
+                        }
+
+                        for (var i = 0; i < results.length; i++) {
+                            var src = results[i];
+                            if (src.indexOf("fb.jpg") == -1
+                                && src.indexOf("tweet.jpg") == -1) {
+                                var regex = /src=[\"'](.*)[\"']/;
+
+                                var regexRes = regex.exec(src);
+                                if(regexRes == null){
+                                    return;
+                                }
+                                var imageLink = regexRes[1];
+                                if(imageLink.indexOf("\'") > -1){
+                                    imageLink = imageLink.split("\'");
+                                }else{
+                                    imageLink = imageLink.split('"');
+                                }
+                                imageLink = imageLink[0];
+                                var pos_parm = imageLink.indexOf("?");
+                                if (pos_parm > -1) {
+                                    imageLink = imageLink.substr(0, pos_parm);
+                                }
+                                if (imageLink.length > 0) {
+                                    var tagEndIndex = src.indexOf('>') + 1;
+                                    if (tagEndIndex > -1) {
+                                        src = src.substr(0, tagEndIndex);
+                                    }
+                                    item.description =item.description.replace(src,"");
+                                    return imageLink;
+                                    break;
+                                }
+                            }
+                        }
+                    }

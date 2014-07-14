@@ -1,0 +1,5 @@
+
+
+------- Log Entry -------
+
+{"HTTP Header":"image/jpeg","Types":"image/jpeg application/octet-stream","URL":"http://media.elwatannews.com/News/Large/2760_660_53251_opt.jpeg","Date":1405371924005}

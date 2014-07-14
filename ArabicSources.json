@@ -1,0 +1,1778 @@
+[
+    {
+        "url" : "http://www.almasryalyoum.com/rss_channels",
+        "_id" : "51d16160aacc54585d000001",
+        "country" : "3",
+        "feedUrl" : "http://www.almasryalyoum.com/rss/rssfeeds?sectionId=2",
+        "category" : "14",
+        "source" : "المصرى اليوم"
+    },
+    {
+        "url" : "http://www.almasryalyoum.com/rss_channels",
+        "_id" : "51d16165aacc54585d000002",
+        "country" : "3",
+        "feedUrl" : "http://www.almasryalyoum.com/rss/rssfeeds?sectionId=2",
+        "category" : "14",
+        "source" : "المصرى اليوم"
+    },
+    {
+        "url" : "http://www.almasryalyoum.com/rss_channels",
+        "_id" : "51d161b1aacc54585d000004",
+        "country" : "3",
+        "feedUrl" : "http://www.almasryalyoum.com/rss/rssfeeds?sectionId=10",
+        "category" : "17",
+        "source" : "المصرى اليوم"
+    },
+    {
+        "url" : "http://www.almasryalyoum.com/rss_channels",
+        "_id" : "51d161e2aacc54585d000005",
+        "country" : "3",
+        "feedUrl" : "http://www.almasryalyoum.com/rss/rssfeeds?sectionId=8",
+        "category" : "19",
+        "source" : "المصرى اليوم"
+    },
+    {
+        "url" : "http://www.almasryalyoum.com/rss_channels",
+        "_id" : "51d16200aacc54585d000006",
+        "country" : "3",
+        "feedUrl" : "http://www.almasryalyoum.com/rss/rssfeeds?sectionId=7",
+        "category" : "20",
+        "source" : "المصرى اليوم"
+    },
+    {
+        "url" : "http://www.almasryalyoum.com/rss_channels",
+        "_id" : "51d16287aacc54585d000007",
+        "country" : "3",
+        "feedUrl" : "http://www.almasryalyoum.com/rss/rssfeeds?sectionId=57",
+        "category" : "22",
+        "source" : "المصرى اليوم"
+    },
+    {
+        "url" : "http://www.almasryalyoum.com/rss_channels",
+        "_id" : "51d162a9aacc54585d000008",
+        "country" : "3",
+        "feedUrl" : "http://www.almasryalyoum.com/rss/rssfeeds?sectionId=9",
+        "category" : "23",
+        "source" : "المصرى اليوم"
+    },
+    {
+        "url" : "http://www.almasryalyoum.com/rss_channels",
+        "_id" : "51d162d3aacc54585d000009",
+        "country" : "3",
+        "feedUrl" : "http://www.almasryalyoum.com/rss/rssfeeds?sectionId=6",
+        "category" : "24",
+        "source" : "المصرى اليوم"
+    },
+    {
+        "url" : "http://www.masrawy.com/news/rss/rss.html",
+        "_id" : "51d16357aacc54585d00000a",
+        "country" : "3",
+        "feedUrl" : "http://www.masrawy.com/News/rss/World.aspx",
+        "category" : "14",
+        "source" : "مصراوى"
+    },
+    {
+        "url" : "http://www.masrawy.com/news/rss/rss.html",
+        "_id" : "51d1637baacc54585d00000b",
+        "country" : "3",
+        "feedUrl" : "http://www.masrawy.com/News/rss/MiddleEast.aspx",
+        "category" : "15",
+        "source" : "مصراوى"
+    },
+    {
+        "url" : "http://www.masrawy.com/news/rss/rss.html",
+        "_id" : "51d163a3aacc54585d00000c",
+        "country" : "3",
+        "feedUrl" : "http://www.masrawy.com/News/rss/RSS_Economy.aspx",
+        "category" : "16",
+        "source" : "مصراوى"
+    },
+    {
+        "url" : "http://www.masrawy.com/news/rss/rss.html",
+        "_id" : "51d163c7aacc54585d00000d",
+        "country" : "3",
+        "feedUrl" : "http://www.masrawy.com/News/rss/Arts.aspx",
+        "category" : "17",
+        "source" : "مصراوى"
+    },
+    {
+        "url" : "http://www.masrawy.com/news/rss/rss.html",
+        "_id" : "51d16412aacc54585d00000f",
+        "country" : "3",
+        "feedUrl" : "http://www.masrawy.com/News/rss/Local_Sports.aspx",
+        "category" : "19",
+        "source" : "مصراوى"
+    },
+    {
+        "url" : "http://www.masrawy.com/news/rss/rss.html",
+        "_id" : "51d16431aacc54585d000010",
+        "country" : "3",
+        "feedUrl" : "http://www.masrawy.com/News/rss/LocalCases.aspx",
+        "category" : "20",
+        "source" : "مصراوى"
+    },
+    {
+        "url" : "http://arabic.cnn.com/rss/",
+        "_id" : "51d16576aacc54585d000011",
+        "country" : "3",
+        "feedUrl" : "http://arabic.cnn.com/rss/cnnarabic_world.rss",
+        "category" : "14",
+        "source" : "CNN عربي"
+    },
+    {
+        "url" : "http://arabic.cnn.com/rss/",
+        "_id" : "51d16709aacc54585d000015",
+        "country" : "3",
+        "feedUrl" : "http://arabic.cnn.com/rss/cnnarabic_sport.rss",
+        "category" : "19",
+        "source" : "CNN عربي"
+    },
+    {
+        "url" : "http://www.egynews.net/wps/portal/rss",
+        "_id" : "51d1679eaacc54585d000016",
+        "country" : "3",
+        "feedUrl" : "http://www.egynews.net/ERTU2/news/world.rss",
+        "category" : "14",
+        "source" : "إيجي نيوز"
+    },
+    {
+        "url" : "http://www.egynews.net/wps/portal/rss",
+        "_id" : "51d167bdaacc54585d000017",
+        "country" : "3",
+        "feedUrl" : "http://www.egynews.net/ERTU2/news/world.rss",
+        "category" : "15",
+        "source" : "إيجي نيوز"
+    },
+    {
+        "url" : "http://www.egynews.net/wps/portal/rss",
+        "_id" : "51d167e3aacc54585d000018",
+        "country" : "3",
+        "feedUrl" : "http://www.egynews.net/ERTU2/news/business.rss",
+        "category" : "16",
+        "source" : "إيجي نيوز"
+    },
+    {
+        "url" : "http://www.egynews.net/wps/portal/rss",
+        "_id" : "51d16810aacc54585d000019",
+        "country" : "3",
+        "feedUrl" : "http://www.egynews.net/ERTU2/news/art.rss",
+        "category" : "17",
+        "source" : "إيجي نيوز"
+    },
+    {
+        "url" : "http://www.egynews.net/wps/portal/rss",
+        "_id" : "51d16832aacc54585d00001a",
+        "country" : "3",
+        "feedUrl" : "http://www.egynews.net/ERTU2/news/sports.rss",
+        "category" : "19",
+        "source" : "إيجي نيوز"
+    },
+    {
+        "url" : "http://www.egynews.net/wps/portal/rss",
+        "_id" : "51d16867aacc54585d00001b",
+        "country" : "3",
+        "feedUrl" : "http://www.egynews.net/ERTU2/articles.rss",
+        "category" : "22",
+        "source" : "إيجي نيوز"
+    },
+    {
+        "url" : "http://www.egynews.net/wps/portal/rss",
+        "_id" : "51d16889aacc54585d00001c",
+        "country" : "3",
+        "feedUrl" : "http://www.egynews.net/ERTU2/news/tech.rss",
+        "category" : "23",
+        "source" : "إيجي نيوز"
+    },
+    {
+        "url" : "http://www.egynews.net/wps/portal/rss",
+        "_id" : "51d168a7aacc54585d00001d",
+        "country" : "3",
+        "feedUrl" : "http://www.egynews.net/ERTU2/news/art.rss",
+        "category" : "24",
+        "source" : "إيجي نيوز"
+    },
+    {
+        "url" : "http://www.youm7.com/rssnew.asp",
+        "_id" : "51d168d3aacc54585d00001e",
+        "country" : "3",
+        "feedUrl" : "http://www.youm7.com/new3alamrss.asp",
+        "category" : "14",
+        "source" : "اليوم السابع"
+    },
+    {
+        "url" : "http://www.youm7.com/rssnew.asp",
+        "_id" : "51d168f0aacc54585d00001f",
+        "country" : "3",
+        "feedUrl" : "http://www.youm7.com/new3arabrss.asp",
+        "category" : "15",
+        "source" : "اليوم السابع"
+    },
+    {
+        "url" : "http://www.youm7.com/rssnew.asp",
+        "_id" : "51d16f4baacc54585d000020",
+        "country" : "3",
+        "feedUrl" : "http://www.youm7.com/neweconomicrss.asp",
+        "category" : "16",
+        "source" : "اليوم السابع"
+    },
+    {
+        "url" : "http://www.youm7.com/rssnew.asp",
+        "_id" : "51d16f79aacc54585d000021",
+        "country" : "3",
+        "feedUrl" : "http://www.youm7.com/newtalkshowrss.asp",
+        "category" : "17",
+        "source" : "اليوم السابع"
+    },
+    {
+        "url" : "http://www.youm7.com/rssnew.asp",
+        "_id" : "51d16fcaaacc54585d000022",
+        "country" : "3",
+        "feedUrl" : "http://www.youm7.com/newseharss.asp",
+        "category" : "18",
+        "source" : "اليوم السابع"
+    },
+    {
+        "url" : "http://www.youm7.com/rssnew.asp",
+        "_id" : "51d17000aacc54585d000023",
+        "country" : "3",
+        "feedUrl" : "http://www.youm7.com/newreyadarss.asp",
+        "category" : "19",
+        "source" : "اليوم السابع"
+    },
+    {
+        "url" : "http://www.youm7.com/rssnew.asp",
+        "_id" : "51d17030aacc54585d000024",
+        "country" : "3",
+        "feedUrl" : "http://www.youm7.com/newhawadesrss.asp",
+        "category" : "20",
+        "source" : "اليوم السابع"
+    },
+    {
+        "url" : "http://www.youm7.com/rssnew.asp",
+        "_id" : "51d17075aacc54585d000025",
+        "country" : "3",
+        "feedUrl" : "http://www.youm7.com/newmonawatrss.asp",
+        "category" : "21",
+        "source" : "اليوم السابع"
+    },
+    {
+        "url" : "http://www.youm7.com/rssnew.asp",
+        "_id" : "51d170abaacc54585d000026",
+        "country" : "3",
+        "feedUrl" : "http://www.youm7.com/newsakafarss.asp",
+        "category" : "24",
+        "source" : "اليوم السابع"
+    },
+    {
+        "url" : "http://shorouknews.com/rss/",
+        "_id" : "51d1729caacc54585d000027",
+        "country" : "3",
+        "feedUrl" : "http://www.shorouknews.com/Politics/world/rss",
+        "category" : "14",
+        "source" : "بوابة الشروق"
+    },
+    {
+        "url" : "http://shorouknews.com/rss/",
+        "_id" : "51d172feaacc54585d000028",
+        "country" : "3",
+        "feedUrl" : "http://www.shorouknews.com/Politics/arab/rss",
+        "category" : "15",
+        "source" : "بوابة الشروق"
+    },
+    {
+        "url" : "http://shorouknews.com/rss/",
+        "_id" : "51d1731daacc54585d000029",
+        "country" : "3",
+        "feedUrl" : "http://www.shorouknews.com/Economy/market/rss",
+        "category" : "16",
+        "source" : "بوابة الشروق"
+    },
+    {
+        "url" : "http://shorouknews.com/rss/",
+        "_id" : "51d17337aacc54585d00002a",
+        "country" : "3",
+        "feedUrl" : "http://www.shorouknews.com/Economy/bourse/rss",
+        "category" : "16",
+        "source" : "بوابة الشروق"
+    },
+    {
+        "url" : "http://shorouknews.com/rss/",
+        "_id" : "51d17353aacc54585d00002b",
+        "country" : "3",
+        "feedUrl" : "http://www.shorouknews.com/art/Radio-TV/rss",
+        "category" : "17",
+        "source" : "بوابة الشروق"
+    },
+    {
+        "url" : "http://shorouknews.com/rss/",
+        "_id" : "51d1736daacc54585d00002c",
+        "country" : "3",
+        "feedUrl" : "http://www.shorouknews.com/art/cinema/rss",
+        "category" : "17",
+        "source" : "بوابة الشروق"
+    },
+    {
+        "url" : "http://shorouknews.com/rss/",
+        "_id" : "51d1738baacc54585d00002d",
+        "country" : "3",
+        "feedUrl" : "http://www.shorouknews.com/art/music/rss",
+        "category" : "17",
+        "source" : "بوابة الشروق"
+    },
+    {
+        "url" : "http://shorouknews.com/rss/",
+        "_id" : "51d17507aacc54585d00002f",
+        "country" : "3",
+        "feedUrl" : "http://www.shorouknews.com/egypt/accidents/rss",
+        "category" : "20",
+        "source" : "بوابة الشروق"
+    },
+    {
+        "url" : "http://shorouknews.com/rss/",
+        "_id" : "51d17526aacc54585d000030",
+        "country" : "3",
+        "feedUrl" : "http://www.shorouknews.com/people-life/family-relations/rss",
+        "category" : "21",
+        "source" : "بوابة الشروق"
+    },
+    {
+        "url" : "http://shorouknews.com/rss/",
+        "_id" : "51d1753eaacc54585d000031",
+        "country" : "3",
+        "feedUrl" : "http://www.shorouknews.com/Economy/bourse/rss",
+        "category" : "21",
+        "source" : "بوابة الشروق"
+    },
+    {
+        "url" : "http://shorouknews.com/rss/",
+        "_id" : "51d1755aaacc54585d000032",
+        "country" : "3",
+        "feedUrl" : "http://www.shorouknews.com/columns/rss/",
+        "category" : "22",
+        "source" : "بوابة الشروق"
+    },
+    {
+        "url" : "http://shorouknews.com/rss/",
+        "_id" : "51d1757caacc54585d000033",
+        "country" : "3",
+        "feedUrl" : "http://www.shorouknews.com/Sci-Tech/rss",
+        "category" : "23",
+        "source" : "بوابة الشروق"
+    },
+    {
+        "url" : "http://www.elwatannews.com/home/rss",
+        "_id" : "51d1799eaacc54585d000035",
+        "country" : "3",
+        "feedUrl" : "http://www.elwatannews.com/home/rssfeeds?sectionId=18",
+        "category" : "14",
+        "source" : "الوطن"
+    },
+    {
+        "url" : "http://www.elwatannews.com/home/rss",
+        "_id" : "51d17b78aacc54585d000036",
+        "country" : "3",
+        "feedUrl" : "http://www.elwatannews.com/home/rssfeeds?sectionId=31",
+        "category" : "15",
+        "source" : "الوطن"
+    },
+    {
+        "url" : "http://www.elwatannews.com/home/rss",
+        "_id" : "51d17b96aacc54585d000037",
+        "country" : "3",
+        "feedUrl" : "http://www.elwatannews.com/home/rssfeeds?sectionId=12",
+        "category" : "16",
+        "source" : "الوطن"
+    },
+    {
+        "url" : "http://www.elwatannews.com/home/rss",
+        "_id" : "51d17bb4aacc54585d000038",
+        "country" : "3",
+        "feedUrl" : "http://www.elwatannews.com/home/rssfeeds?sectionId=11",
+        "category" : "17",
+        "source" : "الوطن"
+    },
+    {
+        "url" : "http://www.elwatannews.com/home/rss",
+        "_id" : "51d17bf5aacc54585d00003a",
+        "country" : "3",
+        "feedUrl" : "http://www.elwatannews.com/home/rssfeeds?sectionId=17",
+        "category" : "18",
+        "source" : "الوطن"
+    },
+    {
+        "url" : "http://www.elwatannews.com/home/rss",
+        "_id" : "51d17c16aacc54585d00003b",
+        "country" : "3",
+        "feedUrl" : "http://www.elwatannews.com/home/rssfeeds?sectionId=15",
+        "category" : "19",
+        "source" : "الوطن"
+    },
+    {
+        "url" : "http://www.elwatannews.com/home/rss",
+        "_id" : "51d17c35aacc54585d00003c",
+        "country" : "3",
+        "feedUrl" : "http://www.elwatannews.com/home/rssfeeds?sectionId=16",
+        "category" : "20",
+        "source" : "الوطن"
+    },
+    {
+        "url" : "http://www.elwatannews.com/home/rss",
+        "_id" : "51d17c61aacc54585d00003d",
+        "country" : "3",
+        "feedUrl" : "http://www.elwatannews.com/home/rssfeeds?sectionId=2",
+        "category" : "21",
+        "source" : "الوطن"
+    },
+    {
+        "url" : "http://www.elwatannews.com/home/rss",
+        "_id" : "51d17c84aacc54585d00003e",
+        "country" : "3",
+        "feedUrl" : "http://www.elwatannews.com/home/rssfeeds?sectionId=19",
+        "category" : "22",
+        "source" : "الوطن"
+    },
+    {
+        "url" : "http://www.elwatannews.com/home/rss",
+        "_id" : "51d17ca2aacc54585d00003f",
+        "country" : "3",
+        "feedUrl" : "http://www.elwatannews.com/home/rssfeeds?sectionId=10",
+        "category" : "23",
+        "source" : "الوطن"
+    },
+    {
+        "url" : "http://www.elwatannews.com/home/rss",
+        "_id" : "51d17cc0aacc54585d000040",
+        "country" : "3",
+        "feedUrl" : "http://www.elwatannews.com/home/rssfeeds?sectionId=30",
+        "category" : "24",
+        "source" : "الوطن"
+    },
+    {
+        "url" : "http://akhbar-misr.com/",
+        "_id" : "51d29409aacc54585d000041",
+        "country" : "3",
+        "feedUrl" : "http://akhbar-misr.com/category/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/feed/",
+        "category" : "14",
+        "source" : "أخبار مصر"
+    },
+    {
+        "url" : "http://akhbar-misr.com/",
+        "_id" : "51d29445aacc54585d000042",
+        "country" : "3",
+        "feedUrl" : "http://akhbar-misr.com/category/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/feed/",
+        "category" : "16",
+        "source" : "أخبار مصر"
+    },
+    {
+        "url" : "http://akhbar-misr.com/",
+        "_id" : "51d2949faacc54585d000043",
+        "country" : "3",
+        "feedUrl" : "http://akhbar-misr.com/category/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D8%AC%D9%88%D9%85-%D9%88%D8%A7%D9%84%D9%81%D9%86/feed/",
+        "category" : "17",
+        "source" : "أخبار مصر"
+    },
+    {
+        "url" : "http://akhbar-misr.com/",
+        "_id" : "51d29502aacc54585d000045",
+        "country" : "3",
+        "feedUrl" : "http://akhbar-misr.com/category/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9/feed/",
+        "category" : "19",
+        "source" : "أخبار مصر"
+    },
+    {
+        "url" : "http://tahrirnews.com/",
+        "_id" : "51d2a7fbaacc54585d00005c",
+        "country" : "3",
+        "feedUrl" : "http://tahrirnews.com/culture/rss",
+        "category" : "24",
+        "source" : "التحرير"
+    },
+    {
+        "url" : "http://onaeg.com/",
+        "_id" : "51d2af6daacc54585d000068",
+        "country" : "3",
+        "feedUrl" : "http://onaeg.com/?feed=rss2&cat=27",
+        "category" : "16",
+        "source" : "وكالة أنباء ONA"
+    },
+    {
+        "url" : "http://onaeg.com/",
+        "_id" : "51d2af9faacc54585d000069",
+        "country" : "3",
+        "feedUrl" : "http://onaeg.com/?feed=rss2&cat=29",
+        "category" : "17",
+        "source" : "وكالة أنباء ONA"
+    },
+    {
+        "url" : "http://elbadil.com/",
+        "_id" : "51d2c79caacc54585d000086",
+        "country" : "3",
+        "feedUrl" : "http://elbadil.com/category/culture/art/feed/",
+        "category" : "17",
+        "source" : "جريدة البديل"
+    },
+    {
+        "url" : "http://shorouknews.com/rss/",
+        "_id" : "51d1759baacc54585d000034",
+        "country" : "3",
+        "feedUrl" : "http://www.shorouknews.com/Culture/rss",
+        "category" : "24",
+        "source" : "بوابة الشروق"
+    },
+    {
+        "url" : "http://akhbar-misr.com/",
+        "_id" : "51d29594aacc54585d000046",
+        "country" : "3",
+        "feedUrl" : "http://akhbar-misr.com/category/%D8%AD%D9%88%D8%A7%D8%AF%D8%AB-%D9%88%D9%82%D8%B6%D8%A7%D9%8A%D8%A7/feed/",
+        "category" : "20",
+        "source" : "أخبار مصر"
+    },
+    {
+        "url" : "http://akhbar-misr.com/",
+        "_id" : "51d295e5aacc54585d000047",
+        "country" : "3",
+        "feedUrl" : "http://akhbar-misr.com/category/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%A9-%D9%88-%D8%A7%D9%84%D8%B7%D9%81%D9%84/feed/",
+        "category" : "21",
+        "source" : "أخبار مصر"
+    },
+    {
+        "url" : "http://akhbar-misr.com/",
+        "_id" : "51d2962aaacc54585d000048",
+        "country" : "3",
+        "feedUrl" : "http://akhbar-misr.com/category/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1-%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA/feed/",
+        "category" : "23",
+        "source" : "أخبار مصر"
+    },
+    {
+        "url" : "http://akhbar-misr.com/",
+        "_id" : "51d2964faacc54585d000049",
+        "country" : "3",
+        "feedUrl" : "http://akhbar-misr.com/category/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%AF%D8%A8-%D9%88%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9/feed/",
+        "category" : "24",
+        "source" : "أخبار مصر"
+    },
+    {
+        "url" : "http://www.aljazeera.net/news/arabic",
+        "_id" : "51d2a149aacc54585d000051",
+        "country" : "3",
+        "feedUrl" : "http://www.aljazeera.net/AljazeeraRss/4a3a248d-587b-4293-ab96-3ea5bc866b2e/32966911-f793-4143-8692-a7de2885fb7b",
+        "category" : "15",
+        "source" : "الجزيره"
+    },
+    {
+        "url" : "http://www.aljazeera.net/news/arabic",
+        "_id" : "51d2a18daacc54585d000052",
+        "country" : "3",
+        "feedUrl" : "http://www.aljazeera.net/AljazeeraRss/4a3a248d-587b-4293-ab96-3ea5bc866b2e/4610700f-097e-40f1-b367-889266a63b5b",
+        "category" : "14",
+        "source" : "الجزيره"
+    },
+    {
+        "url" : "http://www.aljazeera.net/news/arabic",
+        "_id" : "51d2a215aacc54585d000054",
+        "country" : "3",
+        "feedUrl" : "http://www.aljazeera.net/AljazeeraRss/dbd79977-375a-4b51-9bf9-6abf40a0b808/047f6bc6-beb8-4af1-9090-78ca6e8f48c8",
+        "category" : "24",
+        "source" : "الجزيره"
+    },
+    {
+        "url" : "http://www.aljazeera.net/news/arabic",
+        "_id" : "51d2a240aacc54585d000055",
+        "country" : "3",
+        "feedUrl" : "http://www.aljazeera.net/AljazeeraRss/5f719ef5-0c55-4ad7-baa5-401ead513cf6/20e2b9bb-57cd-4d4e-b056-0ae4fff435d7",
+        "category" : "19",
+        "source" : "الجزيره"
+    },
+    {
+        "url" : "http://www.aljazeera.net/news/arabic",
+        "_id" : "51d2a28baacc54585d000056",
+        "country" : "3",
+        "feedUrl" : "http://www.aljazeera.net/AljazeeraRss/9b124112-df41-49a9-947b-889a65dc0e62/e8e430fb-8f89-44c4-96fa-fa6d721e51ce",
+        "category" : "18",
+        "source" : "الجزيره"
+    },
+    {
+        "url" : "http://www.aljazeera.net/news/arabic",
+        "_id" : "51d2a2c1aacc54585d000057",
+        "country" : "3",
+        "feedUrl" : "http://www.aljazeera.net/AljazeeraRss/77d12f53-2e10-4cf9-ad3f-b36f5b2a39ff/d45afa1b-21fc-4990-ae78-df7fca8661eb",
+        "category" : "23",
+        "source" : "الجزيره"
+    },
+    {
+        "url" : "http://tahrirnews.com/",
+        "_id" : "51d2a74aaacc54585d000058",
+        "country" : "3",
+        "feedUrl" : "http://tahrirnews.com/egypt/rss",
+        "category" : "15",
+        "source" : "التحرير"
+    },
+    {
+        "url" : "http://tahrirnews.com/",
+        "_id" : "51d2a7a6aacc54585d00005a",
+        "country" : "3",
+        "feedUrl" : "http://tahrirnews.com/sports/rss",
+        "category" : "19",
+        "source" : "التحرير"
+    },
+    {
+        "url" : "http://tahrirnews.com/",
+        "_id" : "51d2a84baacc54585d00005e",
+        "country" : "3",
+        "feedUrl" : "http://tahrirnews.com/arts/rss",
+        "category" : "17",
+        "source" : "التحرير"
+    },
+    {
+        "url" : "http://akhbarelyom.com/RSS/GetSectionRSS?JournalID=1",
+        "_id" : "51d2b1d1aacc54585d00006d",
+        "country" : "3",
+        "feedUrl" : "http://akhbarelyom.com/RSS/GetSectionNewsRSS?JournalID=1&SectionID=12",
+        "category" : "14",
+        "source" : "أخبار اليوم"
+    },
+    {
+        "url" : "http://akhbarelyom.com/RSS/GetSectionRSS?JournalID=1",
+        "_id" : "51d2b1efaacc54585d00006e",
+        "country" : "3",
+        "feedUrl" : "http://akhbarelyom.com/RSS/GetSectionNewsRSS?JournalID=1&SectionID=35",
+        "category" : "15",
+        "source" : "أخبار اليوم"
+    },
+    {
+        "url" : "http://akhbarelyom.com/RSS/GetSectionRSS?JournalID=1",
+        "_id" : "51d2b215aacc54585d00006f",
+        "country" : "3",
+        "feedUrl" : "http://akhbarelyom.com/RSS/GetSectionNewsRSS?JournalID=1&SectionID=10",
+        "category" : "16",
+        "source" : "أخبار اليوم"
+    },
+    {
+        "url" : "http://akhbarelyom.com/RSS/GetSectionRSS?JournalID=1",
+        "_id" : "51d2b235aacc54585d000070",
+        "country" : "3",
+        "feedUrl" : "http://akhbarelyom.com/RSS/GetSectionNewsRSS?JournalID=1&SectionID=36",
+        "category" : "17",
+        "source" : "أخبار اليوم"
+    },
+    {
+        "url" : "http://akhbarelyom.com/RSS/GetSectionRSS?JournalID=1",
+        "_id" : "51d2b273aacc54585d000071",
+        "country" : "3",
+        "feedUrl" : "http://akhbarelyom.com/RSS/GetSectionNewsRSS?JournalID=1&SectionID=13",
+        "category" : "18",
+        "source" : "أخبار اليوم"
+    },
+    {
+        "url" : "http://akhbarelyom.com/RSS/GetSectionRSS?JournalID=1",
+        "_id" : "51d2b297aacc54585d000072",
+        "country" : "3",
+        "feedUrl" : "http://akhbarelyom.com/RSS/GetSectionNewsRSS?JournalID=1&SectionID=23",
+        "category" : "19",
+        "source" : "أخبار اليوم"
+    },
+    {
+        "url" : "http://akhbarelyom.com/RSS/GetSectionRSS?JournalID=1",
+        "_id" : "51d2b2b3aacc54585d000073",
+        "country" : "3",
+        "feedUrl" : "http://akhbarelyom.com/RSS/GetSectionNewsRSS?JournalID=1&SectionID=11",
+        "category" : "20",
+        "source" : "أخبار اليوم"
+    },
+    {
+        "url" : "http://akhbarelyom.com/RSS/GetSectionRSS?JournalID=1",
+        "_id" : "51d2b2d5aacc54585d000074",
+        "country" : "3",
+        "feedUrl" : "http://akhbarelyom.com/RSS/GetSectionNewsRSS?JournalID=1&SectionID=32",
+        "category" : "21",
+        "source" : "أخبار اليوم"
+    },
+    {
+        "url" : "http://akhbarelyom.com/RSS/GetSectionRSS?JournalID=1",
+        "_id" : "51d2b341aacc54585d000075",
+        "country" : "3",
+        "feedUrl" : "http://akhbarelyom.com/RSS/GetSectionNewsRSS?JournalID=1&SectionID=29",
+        "category" : "24",
+        "source" : "أخبار اليوم"
+    },
+    {
+        "url" : "http://massai.ahram.org.eg/RssContent.aspx",
+        "_id" : "51d2bb24aacc54585d000076",
+        "country" : "3",
+        "feedUrl" : "http://massai.ahram.org.eg/RssXml.aspx?CategoryID=30",
+        "category" : "15",
+        "source" : "الأهرام المسائى"
+    },
+    {
+        "url" : "http://massai.ahram.org.eg/RssContent.aspx",
+        "_id" : "51d2bb58aacc54585d000077",
+        "country" : "3",
+        "feedUrl" : "http://massai.ahram.org.eg/RssXml.aspx?CategoryID=29",
+        "category" : "17",
+        "source" : "الأهرام المسائى"
+    },
+    {
+        "url" : "http://massai.ahram.org.eg/RssContent.aspx",
+        "_id" : "51d2bb81aacc54585d000078",
+        "country" : "3",
+        "feedUrl" : "http://massai.ahram.org.eg/RssXml.aspx?CategoryID=24",
+        "category" : "19",
+        "source" : "الأهرام المسائى"
+    },
+    {
+        "url" : "http://massai.ahram.org.eg/RssContent.aspx",
+        "_id" : "51d2bba3aacc54585d000079",
+        "country" : "3",
+        "feedUrl" : "http://massai.ahram.org.eg/RssXml.aspx?CategoryID=25",
+        "category" : "20",
+        "source" : "الأهرام المسائى"
+    },
+    {
+        "url" : "http://massai.ahram.org.eg/RssContent.aspx",
+        "_id" : "51d2bbd0aacc54585d00007a",
+        "country" : "3",
+        "feedUrl" : "http://massai.ahram.org.eg/RssXml.aspx?CategoryID=7",
+        "category" : "16",
+        "source" : "الأهرام المسائى"
+    },
+    {
+        "url" : "http://massai.ahram.org.eg/RssContent.aspx",
+        "_id" : "51d2bbf3aacc54585d00007b",
+        "country" : "3",
+        "feedUrl" : "http://massai.ahram.org.eg/RssXml.aspx?CategoryID=17",
+        "category" : "22",
+        "source" : "الأهرام المسائى"
+    },
+    {
+        "url" : "http://www.soutalomma.com/",
+        "_id" : "51d2c506aacc54585d00007c",
+        "country" : "3",
+        "feedUrl" : "http://www.soutalomma.com/taxonomy/term/1/feed",
+        "category" : "15",
+        "source" : "صوت الأمة"
+    },
+    {
+        "url" : "http://www.soutalomma.com/",
+        "_id" : "51d2c52baacc54585d00007d",
+        "country" : "3",
+        "feedUrl" : "http://www.soutalomma.com/taxonomy/term/7/feed",
+        "category" : "15",
+        "source" : "صوت الأمة"
+    },
+    {
+        "url" : "http://www.soutalomma.com/",
+        "_id" : "51d2c563aacc54585d00007e",
+        "country" : "3",
+        "feedUrl" : "http://www.soutalomma.com/taxonomy/term/9/feed",
+        "category" : "21",
+        "source" : "صوت الأمة"
+    },
+    {
+        "url" : "http://www.soutalomma.com/",
+        "_id" : "51d2c587aacc54585d00007f",
+        "country" : "3",
+        "feedUrl" : "http://www.soutalomma.com/taxonomy/term/6/feed",
+        "category" : "19",
+        "source" : "صوت الأمة"
+    },
+    {
+        "url" : "http://www.soutalomma.com/",
+        "_id" : "51d2c5a4aacc54585d000080",
+        "country" : "3",
+        "feedUrl" : "http://www.soutalomma.com/taxonomy/term/3/feed",
+        "category" : "20",
+        "source" : "صوت الأمة"
+    },
+    {
+        "url" : "http://www.soutalomma.com/",
+        "_id" : "51d2c5bdaacc54585d000081",
+        "country" : "3",
+        "feedUrl" : "http://www.soutalomma.com/taxonomy/term/20/feed",
+        "category" : "22",
+        "source" : "صوت الأمة"
+    },
+    {
+        "url" : "http://www.soutalomma.com/",
+        "_id" : "51d2c5ebaacc54585d000082",
+        "country" : "3",
+        "feedUrl" : "http://www.soutalomma.com/taxonomy/term/8/feed",
+        "category" : "24",
+        "source" : "صوت الأمة"
+    },
+    {
+        "url" : "http://elbadil.com/",
+        "_id" : "51d2c77aaacc54585d000085",
+        "country" : "3",
+        "feedUrl" : "http://elbadil.com/category/economy/feed/",
+        "category" : "16",
+        "source" : "جريدة البديل"
+    },
+    {
+        "url" : "http://elbadil.com/",
+        "_id" : "51d2c7c8aacc54585d000087",
+        "country" : "3",
+        "feedUrl" : "http://elbadil.com/category/sports/feed/",
+        "category" : "19",
+        "source" : "جريدة البديل"
+    },
+    {
+        "url" : "http://elbadil.com/",
+        "_id" : "51d2c7ebaacc54585d000088",
+        "country" : "3",
+        "feedUrl" : "http://elbadil.com/category/crime/feed/",
+        "category" : "20",
+        "source" : "جريدة البديل"
+    },
+    {
+        "url" : "http://elbadil.com/",
+        "_id" : "51d2c828aacc54585d00008a",
+        "country" : "3",
+        "feedUrl" : "http://elbadil.com/category/opinion/feed/",
+        "category" : "22",
+        "source" : "جريدة البديل"
+    },
+    {
+        "url" : "http://elbadil.com/",
+        "_id" : "51d2c843aacc54585d00008b",
+        "country" : "3",
+        "feedUrl" : "http://elbadil.com/?feed=rss2&cat=4837",
+        "category" : "23",
+        "source" : "جريدة البديل"
+    },
+    {
+        "url" : "http://arabic.arabia.msn.com/egypt/",
+        "_id" : "51d2ca95aacc54585d00008d",
+        "country" : "3",
+        "feedUrl" : "http://arabic.arabia.msn.com/news/world/feed/",
+        "category" : "14",
+        "source" : "MSN عربي"
+    },
+    {
+        "url" : "http://arabic.arabia.msn.com/egypt/",
+        "_id" : "51d2cab7aacc54585d00008e",
+        "country" : "3",
+        "feedUrl" : "http://arabic.arabia.msn.com/news/egypt-news/feed/",
+        "category" : "15",
+        "source" : "MSN عربي"
+    },
+    {
+        "url" : "http://arabic.arabia.msn.com/egypt/",
+        "_id" : "51d2cae9aacc54585d00008f",
+        "country" : "3",
+        "feedUrl" : "http://arabic.arabia.msn.com/news/business/feed/",
+        "category" : "16",
+        "source" : "MSN عربي"
+    },
+    {
+        "url" : "http://arabic.arabia.msn.com/egypt/",
+        "_id" : "51d2cb4aaacc54585d000090",
+        "country" : "3",
+        "feedUrl" : "http://arabic.arabia.msn.com/lifestyle/health-fitness/feed/",
+        "category" : "18",
+        "source" : "MSN عربي"
+    },
+    {
+        "url" : "http://arabic.arabia.msn.com/egypt/",
+        "_id" : "51d2cb72aacc54585d000091",
+        "country" : "3",
+        "feedUrl" : "http://arabic.arabia.msn.com/news/news-sports/feed/",
+        "category" : "19",
+        "source" : "MSN عربي"
+    },
+    {
+        "url" : "http://arabic.arabia.msn.com/egypt/",
+        "_id" : "51d2cbdfaacc54585d000092",
+        "country" : "3",
+        "feedUrl" : "http://arabic.arabia.msn.com/news/technology/feed/",
+        "category" : "23",
+        "source" : "MSN عربي"
+    },
+    {
+        "url" : "http://arabic.arabia.msn.com/egypt/",
+        "_id" : "51d2cc0caacc54585d000093",
+        "country" : "3",
+        "feedUrl" : "http://arabic.arabia.msn.com/news/articles/feed/",
+        "category" : "22",
+        "source" : "MSN عربي"
+    },
+    {
+        "url" : "http://www.skynewsarabia.com/web/home",
+        "_id" : "51d3d4aa07594c9d3e00000b",
+        "country" : "3",
+        "feedUrl" : "http://www.skynewsarabia.com/web/rss/middle-east.xml",
+        "category" : "15",
+        "source" : "سكاي نيوز عربي"
+    },
+    {
+        "url" : "http://www.skynewsarabia.com/web/home",
+        "_id" : "51d3d67107594c9d3e000011",
+        "country" : "3",
+        "feedUrl" : "http://www.skynewsarabia.com/web/rss/varieties.xml",
+        "category" : "21",
+        "source" : "سكاي نيوز عربي"
+    },
+    {
+        "_id" : "51d4071704041cb77d00000b",
+        "country" : "3",
+        "source" : "جريدة البورصة",
+        "url" : "http://www.alborsanews.com/",
+        "feedUrl" : "http://www.alborsanews.com/category/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%85%D8%B5%D8%B1/feed/",
+        "category" : "16"
+    },
+    {
+        "_id" : "51d4073804041cb77d00000c",
+        "country" : "3",
+        "source" : "جريدة البورصة",
+        "url" : "http://www.alborsanews.com/",
+        "feedUrl" : "http://www.alborsanews.com/category/%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D9%88-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA/feed/",
+        "category" : "16"
+    },
+    {
+        "_id" : "51d4075304041cb77d00000d",
+        "country" : "3",
+        "source" : "جريدة البورصة",
+        "url" : "http://www.alborsanews.com/",
+        "feedUrl" : "http://www.alborsanews.com/category/%D8%A8%D9%86%D9%88%D9%83/feed/",
+        "category" : "16"
+    },
+    {
+        "_id" : "51d4077404041cb77d00000e",
+        "country" : "3",
+        "source" : "جريدة البورصة",
+        "url" : "http://www.alborsanews.com/",
+        "feedUrl" : "http://www.alborsanews.com/category/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA/feed/",
+        "category" : "16"
+    },
+    {
+        "_id" : "51d4079504041cb77d00000f",
+        "country" : "3",
+        "source" : "جريدة البورصة",
+        "url" : "http://www.alborsanews.com/",
+        "feedUrl" : "http://www.alborsanews.com/category/%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%88%D8%A7%D8%B9%D9%85%D8%A7%D9%84/feed/",
+        "category" : "16"
+    },
+    {
+        "_id" : "51d407b404041cb77d000010",
+        "country" : "3",
+        "source" : "جريدة البورصة",
+        "url" : "http://www.alborsanews.com/",
+        "feedUrl" : "http://www.alborsanews.com/category/%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A/feed/",
+        "category" : "16"
+    },
+    {
+        "_id" : "51d407cc04041cb77d000011",
+        "country" : "3",
+        "source" : "جريدة البورصة",
+        "url" : "http://www.alborsanews.com/",
+        "feedUrl" : "http://www.alborsanews.com/category/%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D9%88%D8%B3%D9%84%D8%B9/feed/",
+        "category" : "16"
+    },
+    {
+        "_id" : "51d407e704041cb77d000012",
+        "country" : "3",
+        "source" : "جريدة البورصة",
+        "url" : "http://www.alborsanews.com/",
+        "feedUrl" : "http://www.alborsanews.com/category/%D9%86%D9%82%D9%84-%D9%88%D9%85%D9%84%D8%A7%D8%AD%D8%A9/feed/",
+        "category" : "16"
+    },
+    {
+        "_id" : "51d4080604041cb77d000013",
+        "country" : "3",
+        "source" : "جريدة البورصة",
+        "url" : "http://www.alborsanews.com/",
+        "feedUrl" : "http://www.alborsanews.com/category/%D8%AA%D8%A3%D9%85%D9%8A%D9%86/feed/",
+        "category" : "16"
+    },
+    {
+        "_id" : "51d4082304041cb77d000014",
+        "country" : "3",
+        "source" : "جريدة البورصة",
+        "url" : "http://www.alborsanews.com/",
+        "feedUrl" : "http://www.alborsanews.com/category/forbes/feed/",
+        "category" : "14"
+    },
+    {
+        "url" : "http://www.yallakora.com/arabic/default.aspx?region=",
+        "_id" : "51d4092804041cb77d000016",
+        "country" : "3",
+        "feedUrl" : "http://www.yallakora.com/arabic/rss.aspx?id=0",
+        "category" : "19",
+        "source" : "يالاكورة"
+    },
+    {
+        "url" : "http://www.filgoal.com/arabic/Rss.aspx",
+        "_id" : "51d40d0704041cb77d000019",
+        "country" : "3",
+        "feedUrl" : "http://www.filgoal.com/arabic/RSS/NewsRSS.aspx",
+        "category" : "19",
+        "source" : "في الجول"
+    },
+    {
+        "url" : "http://www.filgoal.com/arabic/Rss.aspx",
+        "_id" : "51d40da904041cb77d00001e",
+        "country" : "3",
+        "feedUrl" : "http://www.filgoal.com/arabic/RSS/NewsRSS.aspx?SecID=23",
+        "category" : "19",
+        "source" : "في الجول"
+    },
+    {
+        "url" : "http://beta.masrawy.com/slides/news",
+        "_id" : "51dacf8447b2bfc04a000001",
+        "country" : "3",
+        "feedUrl" : "http://beta.masrawy.com/rssfeed/35/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9",
+        "category" : "25",
+        "source" : "مصراوى"
+    },
+    {
+        "url" : "http://shorouknews.com/rss/",
+        "_id" : "51dad00347b2bfc04a000002",
+        "country" : "3",
+        "feedUrl" : "http://www.shorouknews.com/egypt/Eg-Politics/rss",
+        "category" : "25",
+        "source" : "بوابة الشروق"
+    },
+    {
+        "_id" : "51dad08147b2bfc04a000003",
+        "country" : "3",
+        "source" : "الوطن",
+        "url" : "http://www.elwatannews.com/home/rss",
+        "feedUrl" : "http://www.elwatannews.com/home/rssfeeds?sectionId=3",
+        "category" : "25"
+    },
+    {
+        "url" : "http://www.egynews.net/wps/portal/rss",
+        "_id" : "51dad0da47b2bfc04a000004",
+        "country" : "3",
+        "feedUrl" : "http://www.egynews.net/ERTU2/news/egypt.rss",
+        "category" : "25",
+        "source" : "إيجي نيوز"
+    },
+    {
+        "url" : "http://www.bbc.co.uk/arabic/middleeast/",
+        "_id" : "51dad16c47b2bfc04a000005",
+        "country" : "3",
+        "feedUrl" : "http://www.bbc.co.uk/arabic/index.xml",
+        "category" : "25",
+        "source" : "الجزيره"
+    },
+    {
+        "url" : "http://akhbarelyom.com/news/newssection/1/1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1.html",
+        "_id" : "51dad3d247b2bfc04a000009",
+        "country" : "3",
+        "feedUrl" : "http://akhbarelyom.com/RSS/GetSectionNewsRSS?JournalID=1&SectionID=1",
+        "category" : "25",
+        "source" : "أخبار اليوم"
+    },
+    {
+        "_id" : "51dbd0ef47b2bfc04a00000a",
+        "country" : "3",
+        "source" : "صوت الأمة",
+        "url" : "http://www.soutalomma.com/soutalomma-rss-feeds",
+        "feedUrl" : "http://www.soutalomma.com/taxonomy/term/2/feed",
+        "category" : "25"
+    },
+    {
+        "url" : "http://www.bbc.co.uk/arabic/",
+        "_id" : "51d29eb3aacc54585d00004a",
+        "country" : "3",
+        "feedUrl" : "http://www.bbc.co.uk/arabic/worldnews/index.xml",
+        "category" : "14",
+        "source" : "بي بي سي"
+    },
+    {
+        "url" : "http://dostorasly.com/rss/home/",
+        "_id" : "51d2ac29aacc54585d000060",
+        "country" : "3",
+        "feedUrl" : "http://dostorasly.com/accidents/rss",
+        "category" : "20",
+        "source" : "الدستور الأصلي"
+    },
+    {
+        "url" : "http://www.skynewsarabia.com/web/home",
+        "_id" : "51d3d48807594c9d3e00000a",
+        "country" : "3",
+        "feedUrl" : "http://www.skynewsarabia.com/web/rss/world.xml",
+        "category" : "14",
+        "source" : "سكاي نيوز عربي"
+    },
+    {
+        "url" : "http://onaeg.com/",
+        "_id" : "51d2af06aacc54585d000066",
+        "country" : "3",
+        "feedUrl" : "http://onaeg.com/?feed=rss2&cat=25",
+        "category" : "15",
+        "source" : "وكالة أنباء ONA"
+    },
+    {
+        "url" : "http://www.filgoal.com/arabic/Rss.aspx",
+        "_id" : "51d40d4004041cb77d00001a",
+        "country" : "3",
+        "feedUrl" : "http://www.filgoal.com/arabic/RSS/NewsRSS.aspx?SecID=1",
+        "category" : "19",
+        "source" : "في الجول"
+    },
+    {
+        "url" : "http://www.yallakora.com/arabic/default.aspx?region=",
+        "_id" : "51d4094b04041cb77d000017",
+        "country" : "3",
+        "feedUrl" : "http://www.yallakora.com/arabic/rss.aspx?id=5&Region=",
+        "category" : "22",
+        "source" : "يالاكورة"
+    },
+    {
+        "url" : "http://onaeg.com/",
+        "_id" : "51d2af30aacc54585d000067",
+        "country" : "3",
+        "feedUrl" : "http://onaeg.com/?feed=rss2&cat=26",
+        "category" : "14",
+        "source" : "وكالة أنباء ONA"
+    },
+    {
+        "url" : "http://dostorasly.com/rss/home/",
+        "_id" : "51d2ac4eaacc54585d000061",
+        "country" : "3",
+        "feedUrl" : "http://dostorasly.com/Sports/rss",
+        "category" : "19",
+        "source" : "الدستور الأصلي"
+    },
+    {
+        "url" : "http://tahrirnews.com/",
+        "_id" : "51d2a77eaacc54585d000059",
+        "country" : "3",
+        "feedUrl" : "http://tahrirnews.com/economy/rss",
+        "category" : "16",
+        "source" : "التحرير"
+    },
+    {
+        "url" : "http://www.bbc.co.uk/arabic/",
+        "_id" : "51d29ed7aacc54585d00004b",
+        "country" : "3",
+        "feedUrl" : "http://www.bbc.co.uk/arabic/middleeast/index.xml",
+        "category" : "15",
+        "source" : "بي بي سي"
+    },
+    {
+        "url" : "http://arabic.cnn.com/rss/",
+        "_id" : "51d16596aacc54585d000012",
+        "country" : "3",
+        "feedUrl" : "http://arabic.cnn.com/rss/cnnarabic_mideast.rss",
+        "category" : "15",
+        "source" : "CNN عربي"
+    },
+    {
+        "url" : "http://www.skynewsarabia.com/web/home",
+        "_id" : "51d3d4d907594c9d3e00000c",
+        "country" : "3",
+        "feedUrl" : "http://www.skynewsarabia.com/web/rss/business.xml",
+        "category" : "16",
+        "source" : "سكاي نيوز عربي"
+    },
+    {
+        "url" : "http://www.skynewsarabia.com/web/home",
+        "_id" : "51d3d53507594c9d3e00000d",
+        "country" : "3",
+        "feedUrl" : "http://www.skynewsarabia.com/web/rss/culture.xml",
+        "category" : "17",
+        "source" : "سكاي نيوز عربي"
+    },
+    {
+        "url" : "http://www.skynewsarabia.com/web/home",
+        "_id" : "51d3d57907594c9d3e00000e",
+        "country" : "3",
+        "feedUrl" : "http://www.skynewsarabia.com/web/rss/sport.xml",
+        "category" : "19",
+        "source" : "سكاي نيوز عربي"
+    },
+    {
+        "url" : "http://www.skynewsarabia.com/web/home",
+        "_id" : "51d3d64707594c9d3e000010",
+        "country" : "3",
+        "feedUrl" : "http://www.skynewsarabia.com/web/rss/culture.xml",
+        "category" : "24",
+        "source" : "سكاي نيوز عربي"
+    },
+    {
+        "url" : "http://tahrirnews.com/",
+        "_id" : "51d2a7d4aacc54585d00005b",
+        "country" : "3",
+        "feedUrl" : "http://tahrirnews.com/accidents/rss",
+        "category" : "20",
+        "source" : "التحرير"
+    },
+    {
+        "url" : "http://tahrirnews.com/",
+        "_id" : "51d2a81baacc54585d00005d",
+        "country" : "3",
+        "feedUrl" : "http://tahrirnews.com/columns/rss/",
+        "category" : "22",
+        "source" : "التحرير"
+    },
+    {
+        "url" : "http://tahrirnews.com/",
+        "_id" : "51d2a874aacc54585d00005f",
+        "country" : "3",
+        "feedUrl" : "http://tahrirnews.com/variety/rss",
+        "category" : "21",
+        "source" : "التحرير"
+    },
+    {
+        "url" : "http://www.bbc.co.uk/arabic/",
+        "_id" : "51d29ef9aacc54585d00004c",
+        "country" : "3",
+        "feedUrl" : "http://www.bbc.co.uk/arabic/business/index.xml",
+        "category" : "16",
+        "source" : "بي بي سي"
+    },
+    {
+        "url" : "http://www.bbc.co.uk/arabic/",
+        "_id" : "51d29f25aacc54585d00004d",
+        "country" : "3",
+        "feedUrl" : "http://www.bbc.co.uk/arabic/tvandradio/index.xml",
+        "category" : "17",
+        "source" : "بي بي سي"
+    },
+    {
+        "url" : "http://www.bbc.co.uk/arabic/",
+        "_id" : "51d29fa6aacc54585d00004e",
+        "country" : "3",
+        "feedUrl" : "http://www.bbc.co.uk/arabic/sports/index.xml",
+        "category" : "19",
+        "source" : "بي بي سي"
+    },
+    {
+        "url" : "http://www.bbc.co.uk/arabic/",
+        "_id" : "51d2a011aacc54585d00004f",
+        "country" : "3",
+        "feedUrl" : "http://www.bbc.co.uk/arabic/artandculture/index.xml",
+        "category" : "24",
+        "source" : "بي بي سي"
+    },
+    {
+        "url" : "http://www.bbc.co.uk/arabic/",
+        "_id" : "51d2a041aacc54585d000050",
+        "country" : "3",
+        "feedUrl" : "http://www.bbc.co.uk/arabic/scienceandtech/index.xml",
+        "category" : "23",
+        "source" : "بي بي سي"
+    },
+    {
+        "url" : "http://tahrirnews.com/",
+        "_id" : "51dad1ac47b2bfc04a000006",
+        "country" : "3",
+        "feedUrl" : "http://tahrirnews.com/politics/rss",
+        "category" : "25",
+        "source" : "التحرير"
+    },
+    {
+        "url" : "http://arabic.cnn.com/rss/",
+        "_id" : "51d166c1aacc54585d000013",
+        "country" : "3",
+        "feedUrl" : "http://arabic.cnn.com/rss/cnnarabic_business.rss",
+        "category" : "16",
+        "source" : "CNN عربي"
+    },
+    {
+        "url" : "http://arabic.cnn.com/rss/",
+        "_id" : "51d166eaaacc54585d000014",
+        "country" : "3",
+        "feedUrl" : "http://arabic.cnn.com/rss/cnnarabic_scitech.rss",
+        "category" : "23",
+        "source" : "CNN عربي"
+    },
+    {
+        "url" : "http://www.filgoal.com/arabic/Rss.aspx",
+        "_id" : "51d40d5904041cb77d00001b",
+        "country" : "3",
+        "feedUrl" : "http://www.filgoal.com/arabic/RSS/NewsRSS.aspx?SecID=5",
+        "category" : "19",
+        "source" : "في الجول"
+    },
+    {
+        "url" : "http://www.filgoal.com/arabic/Rss.aspx",
+        "_id" : "51d40d7504041cb77d00001c",
+        "country" : "3",
+        "feedUrl" : "http://www.filgoal.com/arabic/RSS/NewsRSS.aspx?SecID=9",
+        "category" : "19",
+        "source" : "في الجول"
+    },
+    {
+        "url" : "http://www.filgoal.com/arabic/Rss.aspx",
+        "_id" : "51d40d9004041cb77d00001d",
+        "country" : "3",
+        "feedUrl" : "http://www.filgoal.com/arabic/RSS/NewsRSS.aspx?SecID=3",
+        "category" : "19",
+        "source" : "في الجول"
+    },
+    {
+        "url" : "http://onaeg.com/",
+        "_id" : "51d2afdcaacc54585d00006a",
+        "country" : "3",
+        "feedUrl" : "http://onaeg.com/?feed=rss2&cat=28",
+        "category" : "19",
+        "source" : "وكالة أنباء ONA"
+    },
+    {
+        "url" : "http://onaeg.com/",
+        "_id" : "51d2aff9aacc54585d00006b",
+        "country" : "3",
+        "feedUrl" : "http://onaeg.com/?feed=rss2&cat=30",
+        "category" : "23",
+        "source" : "وكالة أنباء ONA"
+    },
+    {
+        "url" : "http://onaeg.com/",
+        "_id" : "51d2b01aaacc54585d00006c",
+        "country" : "3",
+        "feedUrl" : "http://onaeg.com/?feed=rss2&cat=41",
+        "category" : "22",
+        "source" : "وكالة أنباء ONA"
+    },
+    {
+        "url" : "http://www.yallakora.com/arabic/default.aspx?region=",
+        "_id" : "51d4097804041cb77d000018",
+        "country" : "3",
+        "feedUrl" : "http://www.yallakora.com/arabic/rss.aspx?tourid=319",
+        "category" : "19",
+        "source" : "يالاكورة"
+    },
+    {
+        "url" : "http://dostorasly.com/rss/home/",
+        "_id" : "51d2ac79aacc54585d000062",
+        "country" : "3",
+        "feedUrl" : "http://dostorasly.com/arts/rss",
+        "category" : "17",
+        "source" : "الدستور الأصلي"
+    },
+    {
+        "url" : "http://dostorasly.com/rss/home/",
+        "_id" : "51d2acadaacc54585d000063",
+        "country" : "3",
+        "feedUrl" : "http://dostorasly.com/Economy/rss",
+        "category" : "16",
+        "source" : "الدستور الأصلي"
+    },
+    {
+        "url" : "http://dostorasly.com/rss/home/",
+        "_id" : "51d2acceaacc54585d000064",
+        "country" : "3",
+        "feedUrl" : "http://dostorasly.com/columns/rss/",
+        "category" : "22",
+        "source" : "الدستور الأصلي"
+    },
+    {
+        "url" : "http://dostorasly.com/rss/home/",
+        "_id" : "51d2acf3aacc54585d000065",
+        "country" : "3",
+        "feedUrl" : "http://dostorasly.com/society/rss",
+        "category" : "21",
+        "source" : "الدستور الأصلي"
+    },
+    {
+        "url" : "http://dostorasly.com/Politics",
+        "_id" : "51dad1da47b2bfc04a000007",
+        "country" : "3",
+        "feedUrl" : "http://dostorasly.com/Politics/rss",
+        "category" : "25",
+        "source" : "الدستور الأصلي"
+    },
+    {
+        "url" : "http://akhbar-misr.com/",
+        "_id" : "51d294c4aacc54585d000044",
+        "country" : "3",
+        "feedUrl" : "http://akhbar-misr.com/category/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D8%B7%D8%A8/feed/",
+        "category" : "18",
+        "source" : "أخبار مصر"
+    },
+    {
+        "url" : "http://www.masrawy.com/news/rss/rss.html",
+        "_id" : "51d163ecaacc54585d00000e",
+        "country" : "3",
+        "feedUrl" : "http://beta.masrawy.com/rssfeed/233/%D8%A7%D9%84%D8%B5%D8%AD%D8%A9",
+        "category" : "18",
+        "source" : "مصراوى"
+    },
+    {
+        "_id" : "52592dc925b41ec867000001",
+        "country" : "3",
+        "source" : "التقنية اليوم",
+        "url" : "http://www.teqnyatoday.net/",
+        "feedUrl" : "http://teqnyatoday.net/index.php?option=com_k2&view=itemlist&format=feed&type=rss",
+        "category" : "23"
+    },
+    {
+        "url" : "http://tech-echo.com",
+        "_id" : "5259357125b41ec867000002",
+        "country" : "3",
+        "feedUrl" : "http://tech-echo.com/feed/",
+        "category" : "23",
+        "source" : "صدى التقنية"
+    },
+    {
+        "_id" : "525939d525b41ec867000003",
+        "country" : "3",
+        "source" : "أردرويد",
+        "url" : "http://ardroid.com/",
+        "feedUrl" : "http://feeds.feedburner.com/ardroid?format=xml",
+        "category" : "23"
+    },
+    {
+        "_id" : "52593b3e25b41ec867000005",
+        "country" : "3",
+        "source" : "عالم ابل",
+        "url" : "http://www.apple-wd.com/",
+        "feedUrl" : "http://feeds.feedburner.com/applewd?format=xml",
+        "category" : "23"
+    },
+    {
+        "_id" : "52593b9625b41ec867000006",
+        "country" : "3",
+        "source" : "عالم التقنية",
+        "url" : "http://www.tech-wd.com/wd/",
+        "feedUrl" : "http://feeds.feedburner.com/tech-wd?format=xml",
+        "category" : "23"
+    },
+    {
+        "_id" : "52593bf425b41ec867000007",
+        "country" : "3",
+        "source" : "إلكتروني",
+        "url" : "http://www.electrony.net/",
+        "feedUrl" : "http://www.electrony.net/feed/",
+        "category" : "23"
+    },
+    {
+        "_id" : "52593c2c25b41ec867000008",
+        "country" : "3",
+        "source" : "سوالف سوفت",
+        "url" : "http://www.swalif.net/",
+        "feedUrl" : "http://feeds.feedburner.com/swalifsoft?format=xml",
+        "category" : "23"
+    },
+    {
+        "_id" : "52593c9925b41ec867000009",
+        "country" : "3",
+        "source" : "التقنية بلا حدود",
+        "url" : "http://www.unlimit-tech.com/blog/",
+        "feedUrl" : "http://feeds.feedburner.com/-SultanBlog?format=xml,",
+        "category" : "23"
+    },
+    {
+        "url" : "http://iphoneislam.com/",
+        "_id" : "52593cd925b41ec86700000a",
+        "country" : "3",
+        "feedUrl" : "http://feeds.feedburner.com/iphoneislam/rss",
+        "category" : "23",
+        "source" : "آي-فون إسلام"
+    },
+    {
+        "_id" : "526e60a33f68ed6017000001",
+        "country" : "3",
+        "source" : "البوابة العربية للأخبار التقنية",
+        "url" : "http://www.aitnews.com/",
+        "feedUrl" : "http://feeds.feedburner.com/aitnewscom",
+        "category" : "23"
+    },
+    {
+        "_id" : "527235583f68ed6017000003",
+        "country" : "3",
+        "source" : "الوفد",
+        "url" : "http://www.alwafd.org",
+        "feedUrl" : "http://www.alwafd.org/%D8%B1%D9%8A%D8%A7%D8%B6%D9%80%D9%80%D8%A9/?format=feed&type=rss",
+        "category" : "19"
+    },
+    {
+        "_id" : "5272357f3f68ed6017000004",
+        "country" : "3",
+        "source" : "الوفد",
+        "url" : "http://www.alwafd.org",
+        "feedUrl" : "http://www.alwafd.org/%D8%AD%D9%80%D9%80%D9%88%D8%A7%D8%AF%D8%AB/?format=feed&type=rss",
+        "category" : "20"
+    },
+    {
+        "_id" : "527235a23f68ed6017000005",
+        "country" : "3",
+        "source" : "الوفد",
+        "url" : "http://www.alwafd.org",
+        "feedUrl" : "http://www.alwafd.org/%D8%A5%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/?format=feed&type=rss",
+        "category" : "16"
+    },
+    {
+        "_id" : "527236113f68ed6017000006",
+        "country" : "3",
+        "source" : "الوفد",
+        "url" : "http://www.alwafd.org",
+        "feedUrl" : "http://www.alwafd.org/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%80%D9%86/?format=feed&type=rss",
+        "category" : "17"
+    },
+    {
+        "_id" : "527236233f68ed6017000007",
+        "country" : "3",
+        "source" : "الوفد",
+        "url" : "http://www.alwafd.org",
+        "feedUrl" : "http://www.alwafd.org/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D9%80%D9%80%D8%A7%D8%B1/?format=feed&type=rss",
+        "category" : "15"
+    },
+    {
+        "_id" : "52723be23f68ed6017000008",
+        "country" : "3",
+        "source" : "DW Arabic",
+        "url" : "http://www.dw.de/arabic/",
+        "feedUrl" : "http://rss.dw.de/rdf/rss-ar-bus",
+        "category" : "25"
+    },
+    {
+        "_id" : "52723c0d3f68ed6017000009",
+        "country" : "3",
+        "source" : "DW Arabic",
+        "url" : "http://www.dw.de/arabic/",
+        "feedUrl" : "http://rss.dw.de/rdf/rss-ar-cul",
+        "category" : "24"
+    },
+    {
+        "_id" : "52723c243f68ed601700000a",
+        "country" : "3",
+        "source" : "DW Arabic",
+        "url" : "http://www.dw.de/arabic/",
+        "feedUrl" : "http://rss.dw.de/rdf/rss-ar-sci",
+        "category" : "23"
+    },
+    {
+        "_id" : "52723c5d3f68ed601700000b",
+        "country" : "3",
+        "source" : "DW Arabic",
+        "url" : "http://www.dw.de/arabic/",
+        "feedUrl" : "http://rss.dw.de/rdf/rss-ar-all",
+        "category" : "22"
+    },
+    {
+        "_id" : "52723d073f68ed601700000c",
+        "country" : "3",
+        "source" : "DW Arabic",
+        "url" : "http://www.dw.de/arabic/",
+        "feedUrl" : "http://rss.dw.de/rdf/rss-ar-news",
+        "category" : "15"
+    },
+    {
+        "_id" : "52723d1c3f68ed601700000d",
+        "country" : "3",
+        "source" : "DW Arabic",
+        "url" : "http://www.dw.de/arabic/",
+        "feedUrl" : "http://rss.dw.de/rdf/rss-ar-cul",
+        "category" : "21"
+    },
+    {
+        "_id" : "528375f73f68ed6017000016",
+        "country" : "3",
+        "source" : "جريدة المال",
+        "url" : "http://www.almalnews.com/",
+        "feedUrl" : "http://www.almalnews.com/RssList.aspx?ID=11",
+        "category" : "16"
+    },
+    {
+        "_id" : "528376193f68ed6017000017",
+        "country" : "3",
+        "source" : "جريدة المال",
+        "url" : "http://www.almalnews.com/",
+        "feedUrl" : "http://www.almalnews.com/RssList.aspx?ID=12",
+        "category" : "16"
+    },
+    {
+        "_id" : "528376323f68ed6017000018",
+        "country" : "3",
+        "source" : "جريدة المال",
+        "url" : "http://www.almalnews.com/",
+        "feedUrl" : "http://www.almalnews.com/RssList.aspx?ID=13",
+        "category" : "16"
+    },
+    {
+        "_id" : "528376553f68ed6017000019",
+        "country" : "3",
+        "source" : "جريدة المال",
+        "url" : "http://www.almalnews.com/",
+        "feedUrl" : "http://www.almalnews.com/RssList.aspx?ID=14",
+        "category" : "16"
+    },
+    {
+        "_id" : "528376743f68ed601700001a",
+        "country" : "3",
+        "source" : "جريدة المال",
+        "url" : "http://www.almalnews.com/",
+        "feedUrl" : "http://www.almalnews.com/RssList.aspx?ID=15",
+        "category" : "16"
+    },
+    {
+        "_id" : "5283768b3f68ed601700001b",
+        "country" : "3",
+        "source" : "جريدة المال",
+        "url" : "http://www.almalnews.com/",
+        "feedUrl" : "http://www.almalnews.com/RssList.aspx?ID=16",
+        "category" : "16"
+    },
+    {
+        "_id" : "528376da3f68ed601700001d",
+        "country" : "3",
+        "source" : "جريدة المال",
+        "url" : "http://www.almalnews.com/",
+        "feedUrl" : "http://www.almalnews.com/RssList.aspx?ID=18",
+        "category" : "16"
+    },
+    {
+        "_id" : "528376f73f68ed601700001e",
+        "country" : "3",
+        "source" : "جريدة المال",
+        "url" : "http://www.almalnews.com/",
+        "feedUrl" : "http://www.almalnews.com/RssList.aspx?ID=19",
+        "category" : "25"
+    },
+    {
+        "_id" : "528377353f68ed601700001f",
+        "country" : "3",
+        "source" : "جريدة المال",
+        "url" : "http://www.almalnews.com/",
+        "feedUrl" : "http://www.almalnews.com/RssList.aspx?ID=20",
+        "category" : "21"
+    },
+    {
+        "_id" : "5283776d3f68ed6017000020",
+        "country" : "3",
+        "source" : "جريدة المال",
+        "url" : "http://www.almalnews.com/",
+        "feedUrl" : "http://www.almalnews.com/RssList.aspx?ID=55",
+        "category" : "15"
+    },
+    {
+        "_id" : "528377903f68ed6017000021",
+        "country" : "3",
+        "source" : "جريدة المال",
+        "url" : "http://www.almalnews.com/",
+        "feedUrl" : "http://www.almalnews.com/RssList.aspx?ID=49",
+        "category" : "22"
+    },
+    {
+        "url" : "http://shorouknews.com/rss/",
+        "_id" : "51d17481aacc54585d00002e",
+        "country" : "3",
+        "feedUrl" : "http://www.shorouknews.com/people-life/Food-Health/rss",
+        "category" : "18",
+        "source" : "بوابة الشروق"
+    },
+    {
+        "_id" : "52b16f7575d2aa0b5a000001",
+        "country" : "3",
+        "source" : "جريدة البديل",
+        "url" : "http://elbadil.com/",
+        "feedUrl" : "http://elbadil.com/category/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/feed/",
+        "category" : "25"
+    },
+    {
+        "url" : "http://elbadil.com/",
+        "_id" : "51d2c85caacc54585d00008c",
+        "country" : "3",
+        "feedUrl" : "http://elbadil.com/category/culture/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9/feed/",
+        "category" : "24",
+        "source" : "جريدة البديل"
+    },
+    {
+        "url" : "http://elbadil.com/",
+        "_id" : "51d2c742aacc54585d000083",
+        "country" : "3",
+        "feedUrl" : "http://elbadil.com/category/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/feed/",
+        "category" : "14",
+        "source" : "جريدة البديل"
+    },
+    {
+        "url" : "http://elbadil.com/",
+        "_id" : "51d2c75eaacc54585d000084",
+        "country" : "3",
+        "feedUrl" : "http://elbadil.com/category/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8/feed/",
+        "category" : "15",
+        "source" : "جريدة البديل"
+    },
+    {
+        "_id" : "52bac83d75d2aa0b5a000007",
+        "country" : "3",
+        "source" : "جريدة الوادي",
+        "url" : "http://elwadynews.com/",
+        "feedUrl" : "http://elwadynews.com/rss/economy",
+        "category" : "16"
+    },
+    {
+        "_id" : "52bac87075d2aa0b5a000008",
+        "country" : "3",
+        "source" : "جريدة الوادي",
+        "url" : "http://elwadynews.com/",
+        "feedUrl" : "http://elwadynews.com/rss/culture",
+        "category" : "24"
+    },
+    {
+        "_id" : "52bac8a375d2aa0b5a000009",
+        "country" : "3",
+        "source" : "جريدة الوادي",
+        "url" : "http://elwadynews.com/",
+        "feedUrl" : "http://elwadynews.com/rss/crime",
+        "category" : "20"
+    },
+    {
+        "_id" : "52bac8d075d2aa0b5a00000a",
+        "country" : "3",
+        "source" : "جريدة الوادي",
+        "url" : "http://elwadynews.com/",
+        "feedUrl" : "http://elwadynews.com/rss/world",
+        "category" : "14"
+    },
+    {
+        "_id" : "52bac8e675d2aa0b5a00000b",
+        "country" : "3",
+        "source" : "جريدة الوادي",
+        "url" : "http://elwadynews.com/",
+        "feedUrl" : "http://elwadynews.com/rss/sports",
+        "category" : "19"
+    },
+    {
+        "_id" : "52bac90d75d2aa0b5a00000c",
+        "country" : "3",
+        "source" : "جريدة الوادي",
+        "url" : "http://elwadynews.com/",
+        "feedUrl" : "http://elwadynews.com/rss/health-science",
+        "category" : "18"
+    },
+    {
+        "_id" : "52bac96675d2aa0b5a00000d",
+        "country" : "3",
+        "source" : "جريدة الوادي",
+        "url" : "http://elwadynews.com/",
+        "feedUrl" : "http://elwadynews.com/rss/satellite",
+        "category" : "17"
+    },
+    {
+        "_id" : "52bac98e75d2aa0b5a00000e",
+        "country" : "3",
+        "source" : "جريدة الوادي",
+        "url" : "http://elwadynews.com/",
+        "feedUrl" : "http://elwadynews.com/rss/art",
+        "category" : "17"
+    },
+    {
+        "_id" : "52bac9f475d2aa0b5a00000f",
+        "country" : "3",
+        "source" : "جريدة الوادي",
+        "url" : "http://elwadynews.com/",
+        "feedUrl" : "http://elwadynews.com/rss/hot-issues",
+        "category" : "25"
+    },
+    {
+        "_id" : "52baca4975d2aa0b5a000010",
+        "country" : "3",
+        "source" : "جريدة الوادي",
+        "url" : "http://elwadynews.com/",
+        "feedUrl" : "http://elwadynews.com/rss/varieties",
+        "category" : "21"
+    },
+    {
+        "url" : "http://www.almasryalyoum.com/rss_channels",
+        "_id" : "51d1618eaacc54585d000003",
+        "country" : "3",
+        "feedUrl" : "http://www.almasryalyoum.com/rss/rssfeeds?sectionId=4",
+        "category" : "16",
+        "source" : "المصرى اليوم"
+    }
+]

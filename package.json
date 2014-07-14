@@ -1,0 +1,41 @@
+{
+  "name": "iKhbrBackend",
+  "version": "0.0.1",
+  "description": "Collect news feeds from RSS and tokenize it, preparing it for some textual statistical analysis.",
+  "main": "index.js",
+  "dependencies": {
+    "agentkeepalive": "^0.2.2",
+    "async": "^0.7.0",
+    "cheerio": "^0.17.0",
+    "mime": "^1.2.11",
+    "mongodb": "^1.4.7",
+    "mongoose": "^3.8.12",
+    "node-mime": "^1.0.0",
+    "request": "^2.37.0",
+    "sanitize-html": "^1.2.1",
+    "sax": "^0.6.0",
+    "sleep": "^1.1.4",
+    "xml2js": "^0.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aessam/ikhbr-SmartArabicNewsAggregator"
+  },
+  "keywords": [
+    "news",
+    "rss",
+    "tf-idf",
+    "arabic",
+    "aggregator"
+  ],
+  "author": "Ahmed Essam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aessam/ikhbr-SmartArabicNewsAggregator/issues"
+  },
+  "homepage": "https://github.com/aessam/ikhbr-SmartArabicNewsAggregator"
+}
