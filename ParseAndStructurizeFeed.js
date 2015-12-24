@@ -2,6 +2,8 @@ var Utility = require("./Utility");
 var FeedParserCenter = require("./FeedParserCenter");
 var DataUtility = require("./DataUtility");
 var logger = require("./logger");
+var sax = require("sax");
+
 
 module.exports.parseIncomingContent = function (contentType, itemFeedInfo, data){
 
@@ -26,7 +28,7 @@ module.exports.parseIncomingContent = function (contentType, itemFeedInfo, data)
     }
 
 
-    parser = require("sax").createStream(false);
+    parser = sax.createStream(false);
     var parserForData;
     var isFirst = false;
     parser.onerror = function (e) {

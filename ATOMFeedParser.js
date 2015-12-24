@@ -15,7 +15,7 @@ function ATOMFeedParser() {
     this.tree = [];
     this.lastOpenedTag = "";
     this.lastCreatedItem = [];
-    this.itemCompeletionCallBack;
+    this.itemCompeletionCallBack = undefined;
 }
 ptype.setItemCompeletionCallBack = function (clbk){
     this.itemCompeletionCallBack = clbk;
@@ -31,34 +31,34 @@ ptype.getParsedFeed = function() {
 
 ptype.tagOpened = function(node) {
     nodeName = node.name.toLowerCase();
-    if(nodeName == "media:thumbnail"){
+    if(nodeName === "media:thumbnail"){
         this.lastCreatedItem["smallMedia"] = node.attributes.URL;
     }
-    if(nodeName == "img"){
+    if(nodeName === "img"){
         this.lastCreatedItem["media"] = node.attributes.SRC;
     }
-    if(nodeName == "link"){
+    if(nodeName === "link"){
         this.lastCreatedItem["link"] = node.attributes.HREF;
     }
-    if(nodeName == "entry"){
+    if(nodeName === "entry"){
         this.lastCreatedItem = {};
         this.tree.push(this.lastCreatedItem);
     }
 
-    if(allowedItemsElements[node.name.toLowerCase()] != undefined){
+    if(allowedItemsElements[node.name.toLowerCase()] !== undefined){
         this.lastOpenedTag = node.name.toLowerCase();
     }
 
 };
 ptype.tagClosed = function(node) {
-    if(node.toLowerCase() == "entry"){
+    if(node.toLowerCase() === "entry"){
         if(this.itemCompeletionCallBack){
             this.itemCompeletionCallBack(this.lastCreatedItem);
         }
         this.lastCreatedItem = {};
         this.lastOpenedTag = "";
     }
-    if(allowedItemsElements[this.lastOpenedTag] != undefined &&
+    if(allowedItemsElements[this.lastOpenedTag] !== undefined &&
         this.lastOpenedTag==node.toLowerCase()){
         this.lastOpenedTag = "";
     }
@@ -71,7 +71,7 @@ ptype.addTextToLastOpenedTag = function(text) {
     this.lastCreatedItem[allowedItemsElements[this.lastOpenedTag]] = this.lastCreatedItem[allowedItemsElements[this.lastOpenedTag]] + text;
 };
 ATOMFeedParser.validateAndCreate = function (initNode){
-    if (initNode.name.toLowerCase() == "feed"){
+    if (initNode.name.toLowerCase() === "feed"){
         if(initNode.attributes.XMLNS.toLowerCase().indexOf("atom")>=0)
             return new ATOMFeedParser();
     }

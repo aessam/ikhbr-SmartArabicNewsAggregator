@@ -16,11 +16,11 @@ var keepaliveAgent = new Agent({
 });
 
 function updateRequestURLandCookies(reqOptions, newURL,newCookies) {
-    if(newURL.toLowerCase().indexOf("http://")==-1){
+    if(newURL.toLowerCase().indexOf("http://")===-1){
         newURL = "http://" + newURL;
     }
     var sourceURL = url.parse(newURL);
-    if(sourceURL.port == undefined) sourceURL.port = 80;
+    if(sourceURL.port === undefined) sourceURL.port = 80;
 
     reqOptions.host = sourceURL.host;
     reqOptions.path = sourceURL.path;
@@ -31,13 +31,13 @@ function updateRequestURLandCookies(reqOptions, newURL,newCookies) {
     return reqOptions;
 }
 function prepareRequestOptionsForURL (targetURL,method){
-    if(targetURL.toLowerCase().indexOf("http://")==-1){
+    if(targetURL.toLowerCase().indexOf("http://")===-1){
         targetURL = "http://" + targetURL;
     }
-    method = (typeof method !== 'undefined') ? method : "GET";
+    method = (typeof method !=== 'undefined') ? method : "GET";
 
     var sourceURL = url.parse(targetURL);
-    if(sourceURL.port == undefined) sourceURL.port = 80;
+    if(sourceURL.port === undefined) sourceURL.port = 80;
     var options = {
         host: sourceURL.host,
         path: sourceURL.path,
@@ -102,7 +102,7 @@ function downloadFeed(feedOptions,returnCallback){
                 cookie = response.headers['set-cookie'][0].split(";")[0]+";";
             }
 
-            if(response.headers.location.toLowerCase().indexOf("http://")==-1) {
+            if(response.headers.location.toLowerCase().indexOf("http://")===-1) {
                 newURL = feedOptions.host + response.headers.location;
             }else {
                 newURL = response.headers.location;

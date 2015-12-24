@@ -7,7 +7,7 @@ function FeedParserBlackHole() {
     this.tree = [];
     this.lastOpenedTag = "";
     this.lastCreatedItem = [];
-    this.itemCompeletionCallBack;
+    this.itemCompeletionCallBack = undefined;
 }
 ptype.setItemCompeletionCallBack = function (clbk){
     this.itemCompeletionCallBack = clbk;

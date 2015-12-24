@@ -2,7 +2,7 @@
 //var MongoDB = require('mongodb');
 var config = require('./configuration');
 var logger = require("./logger");
-
+var mongo = require('mongodb');
 
 var ptype = MonogoDBHandler.prototype;
 
@@ -11,7 +11,7 @@ function MonogoDBHandler(){
     ptype.dbServer = config.dbServer;
     ptype.dbPort = config.dbPort;
     self = this;
-    require('mongodb').MongoClient.connect("mongodb://" + this.dbServer + ":" + this.dbPort + "/" + this.dbName, function(err, db) {
+    mongo.MongoClient.connect("mongodb://" + this.dbServer + ":" + this.dbPort + "/" + this.dbName, function(err, db) {
         if(!err) {
             console.log("** DB is connected **");
             self.activeDBLink = db;

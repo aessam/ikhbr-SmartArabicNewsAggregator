@@ -10,18 +10,24 @@ var Logger = require("./logger");
 
 var allImages = []
 var downloadCompleted = true;
-var completeCallback = undefined;
+var completeCallback;
 function download(uri, filename, callback){
     if(uri.length>10 && !fs.existsSync(filename)) {
         request.head(uri, function(err, res, body){
-
+			if(err){
+				Logger.log("ERROR",{
+		            "Filename":filename,
+		            "URL": uri,
+		            "Data":Date.now()
+		        });
+			}
             if(res.headers["location"]){
                 addImageToDownloadQueue(res.headers["location"], filename);
             }
-            if(res.statusCode==200){
+            if(res.statusCode===200){
                 var serverType = res.headers['content-type'].toLowerCase();
                 var fileNametype = mime.lookup(filename);
-                if(serverType==fileNametype){
+                if(serverType===fileNametype){
                     request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
                 }else{
                     Logger.log("FileTypeMismatch", {
@@ -48,7 +54,7 @@ function download(uri, filename, callback){
         });
         callback();
     }
-};
+}
 
 function processQueue(){
     downloadCompleted = false;
@@ -59,7 +65,7 @@ function processQueue(){
     },function(err){
         if(!err){
             downloadCompleted = true;
-            if(completeCallback!=undefined){
+            if(completeCallback!==undefined){
                 completeCallback();
             }
         }
@@ -67,7 +73,7 @@ function processQueue(){
 }
 
 function addImageToDownloadQueue(url, path){
-    var startDownload = allImages.length==0;
+    var startDownload = allImages.length===0;
     allImages.push({url:url,path:path});
     if(startDownload){
         processQueue();
