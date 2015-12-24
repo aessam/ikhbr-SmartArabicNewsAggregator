@@ -34,7 +34,7 @@ function prepareRequestOptionsForURL (targetURL,method){
     if(targetURL.toLowerCase().indexOf("http://")===-1){
         targetURL = "http://" + targetURL;
     }
-    method = (typeof method !=== 'undefined') ? method : "GET";
+    method = (method === undefined) ? "GET": method;
 
     var sourceURL = url.parse(targetURL);
     if(sourceURL.port === undefined) sourceURL.port = 80;
