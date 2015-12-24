@@ -59,7 +59,7 @@ ptype.tagClosed = function(node) {
         this.lastOpenedTag = "";
     }
     if(allowedItemsElements[this.lastOpenedTag] !== undefined &&
-        this.lastOpenedTag==node.toLowerCase()){
+        this.lastOpenedTag===node.toLowerCase()){
         this.lastOpenedTag = "";
     }
 }

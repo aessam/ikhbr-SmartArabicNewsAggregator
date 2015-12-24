@@ -10,16 +10,16 @@ function MonogoDBHandler(){
     ptype.dbName = config.dbName;
     ptype.dbServer = config.dbServer;
     ptype.dbPort = config.dbPort;
-    self = this;
+    __self = this;
     mongo.MongoClient.connect("mongodb://" + this.dbServer + ":" + this.dbPort + "/" + this.dbName, function(err, db) {
         if(!err) {
             console.log("** DB is connected **");
-            self.activeDBLink = db;
-            self.newsCollection = db.collection("News");
-            self.logsCollection = db.collection("logs");
-            self.articlesWords = db.collection("articlesWords");
-            if(self.pendingArticlesForInsertion.length>0){
-                self.insertArticlesArray(self.pendingArticlesForInsertion);
+            ____self.activeDBLink = db;
+            __self.newsCollection = db.collection("News");
+            __self.logsCollection = db.collection("logs");
+            __self.articlesWords = db.collection("articlesWords");
+            if(__self.pendingArticlesForInsertion.length>0){
+                __self.insertArticlesArray(__self.pendingArticlesForInsertion);
             }
         }else{
             console.log(err);
@@ -80,8 +80,8 @@ ptype.insertArticlesArray  = function (arrOfArticles) {
 //}
 
 ptype.closeDB = function (){
-    if(self.activeDBLink)
-        self.activeDBLink.close();
+    if(__self.activeDBLink)
+        __self.activeDBLink.close();
 }
 module.exports = MonogoDBHandler;
 module.exports.db = new MonogoDBHandler();
