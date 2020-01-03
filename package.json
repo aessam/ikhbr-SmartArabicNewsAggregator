@@ -9,7 +9,7 @@
     "cheerio": "^0.17.0",
     "mime": "^1.2.11",
     "mongodb": "^1.4.7",
-    "mongoose": "^3.8.12",
+    "mongoose": "^5.8.4",
     "node-mime": "^1.0.0",
     "request": "^2.37.0",
     "sanitize-html": "^1.2.1",
