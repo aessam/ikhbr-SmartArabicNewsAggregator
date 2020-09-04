@@ -8,7 +8,7 @@
     "async": "^0.7.0",
     "cheerio": "^0.17.0",
     "mime": "^1.2.11",
-    "mongodb": "^1.4.7",
+    "mongodb": "^3.6.1",
     "mongoose": "^5.8.4",
     "node-mime": "^1.0.0",
     "request": "^2.37.0",
